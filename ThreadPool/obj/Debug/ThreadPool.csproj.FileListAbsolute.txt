@@ -1,0 +1,7 @@
+C:\Users\Влад\Desktop\labs\spp\lab6\ThreadPool\ThreadPool\bin\Debug\ThreadPool.exe.config
+C:\Users\Влад\Desktop\labs\spp\lab6\ThreadPool\ThreadPool\obj\Debug\ThreadPool.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\labs\spp\lab6\ThreadPool\ThreadPool\bin\Debug\ThreadPool.exe
+C:\Users\Влад\Desktop\labs\spp\lab6\ThreadPool\ThreadPool\bin\Debug\ThreadPool.pdb
+C:\Users\Влад\Desktop\labs\spp\lab6\ThreadPool\ThreadPool\bin\Debug\Priority Queue.dll
+C:\Users\Влад\Desktop\labs\spp\lab6\ThreadPool\ThreadPool\obj\Debug\ThreadPool.exe
+C:\Users\Влад\Desktop\labs\spp\lab6\ThreadPool\ThreadPool\obj\Debug\ThreadPool.pdb

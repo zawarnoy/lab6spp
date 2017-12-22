@@ -1,0 +1,25 @@
+Created 5 threads.
+Added new user task.
+User task completed.
+Added new user task.
+Added new user task.
+Added new user task.
+Added new user task.
+Added new user task.
+Added new user task.
+Added new user task.
+Error adding task
+Exception: Tried to add too many tasks.
+
+
+Error adding task
+Exception: Tried to add too many tasks.
+
+
+User task completed.
+User task completed.
+User task completed.
+User task completed.
+User task completed.
+User task completed.
+User task completed.
